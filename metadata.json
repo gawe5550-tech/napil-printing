@@ -1,0 +1,6 @@
+{
+  "name": "Banten Digital Printing",
+  "description": "Toko percetakan digital online modern untuk banner, spanduk, stiker, brosur, kartu nama, dan sablon dengan pembayaran QRIS otomatis dan pelacakan pesanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
